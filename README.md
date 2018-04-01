@@ -1,5 +1,6 @@
 # NodeMCU_Mqtt
 ===========================================
+
 Tento projekt je vytvorený pre záznam dat z DHT22 a zaroven je súčasťou rozsiahlejsieho projektu domacej automatizácie
 Projekt je vytvoreny pre NodeMCU(ESP8266) a napisany v jazyku LUA
 
