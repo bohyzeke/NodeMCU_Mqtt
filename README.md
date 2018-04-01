@@ -1,4 +1,4 @@
-# NodeMCU_Mqtt
+NodeMCU_Mqtt
 ===========================================
 
 Tento projekt je vytvorený pre záznam dat z DHT22 a zaroven je súčasťou rozsiahlejsieho projektu domacej automatizácie
