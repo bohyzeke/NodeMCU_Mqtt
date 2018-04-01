@@ -7,15 +7,15 @@ Projekt je vytvoreny pre NodeMCU(ESP8266) a napisany v jazyku LUA.
 
 
 
-# contents
+# Contents
 - poziadavky
-  - [Nahranie firmveru](#Nahranie-firmweru)
-  - [Lua Uploader](#Uploading-files) 
+  - [Nahranie firmweru](#Nahranie-firmweru)
+  - [Lua Uploader](#nahranie-suborov) 
 - [Dokumentacia](Dokumantacia)
 -
   
   
-### Nahranie firmveru
+### Nahranie firmweru
 
 Pre spravnu cinnost NodeMcu je treba nahrat do NodeMcu firmware, ktory si vytvorite alebo stiahnete.
 
@@ -31,6 +31,10 @@ Alebo si mozete vytvorit novy na stranke [Node-build](https://nodemcu-build.com/
 ako dalsie je potrebne firmware nahrat do NodeMCU na toto potrebujete [nodemcu Flasher](https://github.com/nodemcu/nodemcu-flasher)
 na tejto stranke najdete aj postup ako firmvare nahrat do NodeMcu 
 
+### nahranie suborov
+
+Pre nahranie suborov pouzivam program [ESPLorer](https://esp8266.ru/esplorer/#download)
+Vserky potrebne subory najdete v zlozke [/lua](https://github.com/bohyzeke/NodeMCU_Mqtt/tree/master/lua)
 
 
 
