@@ -20,7 +20,7 @@ Pre spravnu cinnost musi firmware obsahovat moduly:
 Wifi,DHT,Timer,MQTT,GPIO a dalsie standardne moduly
 Tento modul musi byt Integer nie floating !!!
 hotovy Floating modul Najdete v zlozke
-[Firmvare](https://github.com/bohyzeke/NodeMCU_Mqtt/bin)
+[Firmvare](https://github.com/bohyzeke/NodeMCU_Mqtt/tree/master/bin)
 Alebo si vytvorte novy na stranke
 [Node-build](https://nodemcu-build.com/)
 
