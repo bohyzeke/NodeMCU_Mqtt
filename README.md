@@ -1,17 +1,28 @@
 NodeMCU_Mqtt
 ===========================================
 
-Tento projekt je vytvorený pre záznam dat z DHT22 a zaroven je súčasťou rozsiahlejsieho projektu domacej automatizácie
+Tento projekt je vytvorený pre záznam dat z DHT22 a zaroven je súčasťou rozsiahlejšieho projektu domacej automatizácie,
 Projekt je vytvoreny pre NodeMCU(ESP8266) a napisany v jazyku LUA
 
 Pre spravnu cinnost NodeMcu je treba nahrat do NodeMcu firmware, ktory si vytvorite alebo stiahnete
+
+# contents
+- poziadavky
+  - [Nahranie firmveru](#Nahranie-firmveru)
+  - [Lua Uploader](#Uploading-files) 
+- [Dokumentacia](Dokumantacia)
+-
+  
+  
+### Nahranie firmveru
+
 Pre spravnu cinnost musi firmware obsahovat moduly:
 Wifi,DHT,Timer,MQTT,GPIO a dalsie standardne moduly
 Tento modul musi byt Integer nie floating !!!
 hotovy Floating modul Najdete v zlozke
-https://github.com/bohyzeke/NodeMCU_Mqtt/bin
+[Firmvare](https://github.com/bohyzeke/NodeMCU_Mqtt/bin)
 Alebo si vytvorte novy na stranke
-https://nodemcu-build.com/
+[Node-build](https://nodemcu-build.com/)
 
 
 Arduino core for ESP8266 WiFi chip
