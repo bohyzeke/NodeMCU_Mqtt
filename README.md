@@ -12,7 +12,7 @@ Projekt je vytvoreny pre NodeMCU(ESP8266) a napisany v jazyku LUA.
   - [Nahranie firmweru](#nahranie-firmweru)
   - [Lua Uploader](#nahranie-suborov)
 - [Dokumentacia](Dokumantacia)
-  
+
 
 ### nahranie firmweru
 
@@ -28,6 +28,7 @@ hotovy Floating modul Najdete v zlozke [/bin](https://github.com/bohyzeke/NodeMC
 Alebo si mozete vytvorit novy na stranke [Node-build](https://nodemcu-build.com/)
 
 ako dalsie je potrebne firmware nahrat do NodeMCU na toto potrebujete [nodemcu Flasher](https://github.com/nodemcu/nodemcu-flasher)
+
 na tejto stranke najdete aj postup ako firmvare nahrat do NodeMcu
 
 ### nahranie suborov
